@@ -1,0 +1,8 @@
+{
+  "name": "eigen-documentation-new",
+  "compatibility_date": "2026-04-30",
+  "main": "./src/worker.ts",
+  "assets": {
+    "directory": "./dist"
+  }
+}

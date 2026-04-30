@@ -9,7 +9,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "deploy": "astro build && wrangler deploy"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.34.3",
@@ -21,6 +22,7 @@
     "starlight-theme-nova": "^0.7.2"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260430.1",
     "prettier": "^3.5.3",
     "prettier-plugin-astro": "^0.14.1"
   }
