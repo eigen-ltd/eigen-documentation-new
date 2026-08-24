@@ -1,0 +1,137 @@
+---
+title: 'Facility/Asset Overview'
+description: 'test1'
+sidebar:
+  order: 3
+---
+
+The Facility/Asset Overview page is a highly customised interface designed to provide a comprehensive summary of the status of all barrier protections on a facility in a single view. It acts as a real-time risk monitoring hub, allowing users to aggregate risk across the asset in various contexts and maintain a clear view of operational integrity.
+
+![Asset Overview](~/assets/bsp/getting-started/image5.png)
+
+## Purpose of the Asset Overview Page
+
+The primary purpose of this page is to offer shared operational awareness by consolidating data from multiple sources into a live, data-driven overview. It enables teams to identify impairments early and prioritise maintenance or mitigation actions based on the cumulative risk to the asset.
+
+The Overview page serves as a gateway to more detailed technical information.
+
+:::note[Live Mode]
+ By default, the interface operates in Live Mode, meaning it is continually updated from data sources to reflect the most recent status.
+
+**Past Visualisation:** It is possible to disconnect the live view and select a specific date in the past to see exactly what the barrier status was at that point in time.
+:::
+
+##	Interface Components
+
+The page is composed of several interactive elements that provide both high-level and granular data such as:
+
+<CardGrid>
+  <Card title="Visual Asset Diagram">
+    A colour-coded representation of the areas or sectors of the facility.
+
+    ![Visual Asset Diagram](~/assets/bsp/getting-started/image6.png)
+  </Card>
+
+  <Card title="Status Tables">
+    Summaries of Safety and Environment Critical Elements (SECEs) and barrier status.
+
+    ![Status Tables](~/assets/bsp/getting-started/image7.png)
+  </Card>
+
+  <Card title="Trend Charts">
+    Visual trend of impairment levels over time.
+
+    ![Trend Charts](~/assets/bsp/getting-started/image8.png)
+  </Card>
+
+  <Card title="Key Performance Indicators">
+    Lists of top criticalities and impaired performance standards.
+
+    ![Key Performance Indicators](~/assets/bsp/getting-started/image9.png)
+  </Card>
+</CardGrid>
+
+See interface Components section for details on each component.
+
+:::note[Common Menu] 
+Right Clicking on impaired SECEs, barriers, or criticalities launches the Common Menu. (In some BSP configurations it may be triggered with a left click). 
+
+This unique menu shows additional information about the reason for the impairment and provides direct links to the source data in other systems, such as maintenance records or risk assessments. 
+
+[See common menu section for details](/bsp/user-guide/components--ui/common-menu/)
+:::
+
+###	Visual Asset Diagram
+
+The centerpiece of the overview is a visual diagram of the installation and its areas or sectors. Refer to visual asset diagram section
+
+![Asset Overview](~/assets/bsp/getting-started/image6.png)
+
+:::note
+As all installations are different, you will typically have a different diagram per installation. The above is an example of a specific oil rig installation.
+:::
+
+Clicking on a segment of the diagram allows the user to drill down into the specific details of that area. This will take you to the area page. See section areas for details. 
+
+You may find that clicking different segments will take you to different area tabs. This will depend on how your BSP is configured and how your areas are categorised.
+
+![Asset Overview](~/assets/bsp/getting-started/image11.png)
+
+In this example, the listed segments on the right are subsea areas and direct to the subsea area page tab when clicked on.  Whereas the segments on the left lead to the asset area tab and the segments at the bottom go to the wells tab.
+
+![Asset Overview](~/assets/bsp/getting-started/image12.png)
+
+:::note
+You may also have different tab names depending on your BSP configuration.
+ E.g. you may have “Barrier Function” or “Operational Barriers” instead of “Area”
+:::
+
+###	Barrier Status Tables
+
+The page includes sortable tables that present the health of various protected areas. 
+
+***Table Data:*** 
+
+Each row typically includes the:
+
+**Area name**
+- This column will list the area name.
+- Drill-down: Clicking on a segment of the table allows the user to drill down into the specific details of that area. This will take you to the area page, see section areas 
+
+**Current safety score**
+- This column will show the current safety score
+- Refer to score section for more information on scoring.
+
+**"Last Impaired" timestamp**
+- This column will show the date of the last impairment.
+- Timestamp Format: The default date/time format for impairments is Day Month Year 00:00.00. For example: 26th Jan 2026 08:08:07.
+
+![Asset Overview](~/assets/bsp/getting-started/image7.png)
+
+***Interacting with the table:*** 
+
+Hover over score for this table to view signal information. Click details to be directed to the signals page. [See signals section](/bsp/user-guide/pages/signals/)
+
+![Asset Overview](~/assets/bsp/getting-started/image13.png)
+
+###	History of the impairments score
+
+Users can track the performance and health of barriers over time through the history section. 
+
+**Presentation:** This data is often presented as a trend plot, indicating the impairment severity score over time. (see charts section)
+
+![Asset Overview](~/assets/bsp/getting-started/image8.png)
+
+**Filtering:** Historical data can be filtered by week, month, or year.
+
+**Colour Coding:** Impairment scores are colour-coded (typically green, yellow, or red) to show the trend of severity score throughout the selected period. If the score is not calculated based on specific business rules then the number of impairments of each type (red, yellow or green) is trended.
+
+###	Performance Standards
+
+**Performance Standards:** The page highlights impaired performance standards by name. Clicking on these allows users to navigate directly to the dedicated Performance Standard page. See performance standards section.
+
+![Asset Overview](~/assets/bsp/getting-started/image9.png)
+
+Clicking view all will direct you to the performance standard page with all the impaired performance standards listed.
+
+

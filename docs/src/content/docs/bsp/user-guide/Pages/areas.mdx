@@ -1,0 +1,195 @@
+---
+title: 'Areas'
+description: 'test1'
+sidebar:
+  order: 4
+---
+
+##	Purpose of the Areas Page
+
+The Areas section of the Eigen BSP provides a detailed drill-down into specific segments of a facility. This view allows users to move from a high-level asset overview to a granular inspection of the health and relationships of safety barriers protecting a particular zone.
+
+Users can navigate to individual areas directly from the Asset Overview page by clicking on a segment of the visual asset diagram or selecting an area name from the status table. [See Facility/Asset Overview section](/bsp/user-guide/pages/facility-asset-overview/)
+
+:::note
+Depending on your Facility you may have different area names than in the examples.
+E.g. you may have “Barrier Function” or “Operational Barriers” instead of “Area”.
+:::
+
+![Asset Overview](~/assets/bsp/getting-started/image14.png)
+
+<br />
+
+##	Interface Components
+
+Each page is typically composed of several interactive elements that provide both high-level and granular data such as:
+
+<CardGrid>
+  <Card title="Sunburst Display">
+    Barrier overview in a sunburst display format.
+
+    ![Visual Asset Diagram](~/assets/bsp/pages/image1.png)
+  </Card>
+
+  <Card title="Hierarchial Scoring Tables">
+    Barrier overview in a nested tabular format.
+
+    ![Status Tables](~/assets/bsp/pages/image2.png)
+  </Card>
+
+  <Card title="Trends/Charts">
+    Visual history of impairments over time.
+
+    ![Key Performance Indicators](~/assets/bsp/pages/image3.png)
+  </Card>
+
+  <Card title="Bowtie Tree view">
+    Flowchart representation of barriers.
+
+    ![Trend Charts](~/assets/bsp/pages/image4.png)
+  </Card>
+
+  <Card title="Common Menu">
+    Everything known about a BSP component.
+
+    ![Trend Charts](~/assets/bsp/pages/image5.png)
+  </Card>
+
+</CardGrid>
+
+See Interface Components section
+
+:::note[Common Menu Access]
+ Right-clicking (or left clicking in some BSP configurations) on a SECE within the table launches the Common Menu, which provides detailed information regarding the reason for the impairment and links to source data.
+
+[Refer to common menu section.](/bsp/user-guide/components--ui/common-menu/)
+:::
+
+<br />
+
+###	Area Navigation
+
+**Top Navigation:** For assets with complex or geographically separated sections, such as subsea installations, users can switch between these major segments using the navigation menu or drop-down selectors at the top of the interface.
+
+![Trend Charts](~/assets/bsp/pages/image6.png)
+
+**Drill-down Capabilities:** The interface is designed to facilitate easy navigation through the asset hierarchy, allowing users to move between the total asset view and specific protected areas.
+
+***Major Accident Hazards***
+
+For each area there will be a list of relevant Major Accident Hazards (MAHs)
+ 
+![Trend Charts](~/assets/bsp/pages/image7.png)
+
+Clicking on one of these will take you to the Major Accident Hazard page for that specific area. [Refer to MAH page section](/bsp/user-guide/pages/mah/)
+
+<br />
+
+### Barrier Overview (Sunburst Display)
+
+The Sunburst is a primary visual tool used at the area level to help users understand the hierarchical relationship between different barrier functions.
+
+![Trend Charts](~/assets/bsp/pages/image9.png)
+
+**Hover:** Users can move the mouse over the periphery to see specific SECE details.
+
+**Selection:** Clicking on the centre of the sunburst allows the user to navigate upwards through the asset hierarchy. Clicking on the outer sections of the sunburst takes you downwards in the hierarchy. Refer to sunburst section.
+
+Visual Hierarchy: The center of the sunburst represents the protected barrier area. As you move outward, the rings represent barrier functions, sub-functions, and sub-barriers.
+
+![Trend Charts](~/assets/bsp/pages/image12.png) Barrier Area: e.g. Helideck 
+![Trend Charts](~/assets/bsp/pages/image13.png) Barrier Function: e.g. Evaculate Helideck
+
+**Periphery Elements:** The outermost edge of the sunburst displays individual Safety and Environment Critical Elements (SECEs) or barrier elements.
+
+|![Trend Charts](~/assets/bsp/pages/image14.png) Barrier Element: e.g. Emergency Lights in Helideck |
+
+<br />
+
+### Hierarchical Scoring Table
+
+The Scoring Table provides the same data as the sunburst but in a nested tabular format, catering to user preference for data navigation.
+
+![Trend Charts](~/assets/bsp/pages/image15.png)
+
+**Nested View:** Users can drill down through different levels of protection by expanding rows in the table.
+
+![Trend Charts](~/assets/bsp/pages/image16.png)
+Hovering over each component will state if it is an area, barrier function or barrier element.
+
+![Trend Charts](~/assets/bsp/pages/image17.png)
+
+<br />
+
+The table displays the number of active signals for each element, which can include:
+
+- **Synergi Cases and Safety Observations:** (SC) Reports on incidents or potential hazards that affect barrier health
+- **Corrective Work Orders:** (CWO) Repairs required after a fault has been identified.
+- **Preventative Work Orders:** (PWO) Scheduled maintenance to prevent failure.
+
+<br />
+
+:::tip
+Hover over the active signals for more information.
+:::
+
+<br />
+
+![Trend Charts](~/assets/bsp/pages/image18.png)
+
+:::tip
+You can toggle nested view to show only the components with active signals.
+![Trend Charts](~/assets/bsp/pages/image20.png)
+:::
+
+<br />
+
+This hierarchy table can also just present the overall score see scoring section.
+
+![Trend Charts](~/assets/bsp/pages/image19.png)
+
+<br />
+
+### Area Trends
+
+The trend section provides a visual history of how impairments in the specific area have behaved over time.
+
+![Trend Charts](~/assets/bsp/pages/image21.png)
+
+**Timeframes:** Data can be filtered to show trends for the last week, month, or year.
+
+![Trend Charts](~/assets/bsp/pages/image22.png)
+
+**Colour Coding:** Impairments are colour-coded (typically green, yellow, or red) to show the frequency and severity of issues throughout the selected period.
+
+Refer to charts section for more information on this component.
+
+<br />
+
+###	Bowtie Tree view
+
+In some configurations, the area view includes a tree view of the preventative and mitigating elements of the area bowtie diagram. 
+
+Preventative and Mitigating Barriers: This display shows preventative barriers on the left side and mitigating barriers on the right side of the major accident hazard.
+
+![Trend Charts](~/assets/bsp/pages/image23.png)
+
+You can click to expand the bowtie.
+
+![Trend Charts](~/assets/bsp/pages/image24.png)
+
+***Real-time Status:***
+
+Each barrier element within the bowtie is colour-coded to reflect its current health, and users can drill down into these elements to view the specific subfunctions and protective functions supporting them.
+
+##	Wells Area page example
+
+Depending on your BSP configuration you may have area pages that look different, for example for the Wells Area, a table of integrity checks on each well is displayed.
+
+Well Integrity is managed by specialised applications, reporting the status to the Eigen BSP. Integrity checks for each well on the tubing and annuli are organised in a matrix, as shown above.
+
+The purpose of the Well Area view is to provide an overview of the well integrity status of all wells in the facility, but any details need to be investigated in the well integrity application.
+
+The “Deviations” tab provides a list of Non-Conformances identified in the well integrity application.
+
+![Trend Charts](~/assets/bsp/pages/image25.png)

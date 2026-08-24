@@ -48,21 +48,21 @@ export default defineConfig({
               label: 'Quickstart Guide',
               collapsed: true,
               autogenerate: {
-                directory: 'getting-started/Quickstart Guide',
+                directory: 'ingenuity/getting-started/Quickstart Guide',
               },
             },
             {
               label: 'Workspaces and Pages',
               collapsed: true,
               autogenerate: {
-                directory: 'getting-started/Workspaces and Pages',
+                directory: 'ingenuity/getting-started/Workspaces and Pages',
               },
             },
             {
               label: 'Installation Guide',
               collapsed: true,
               autogenerate: {
-                directory: 'getting-started/Installation Guide',
+                directory: 'ingenuity/getting-started/Installation Guide',
               },
             },
           ],
@@ -75,49 +75,56 @@ export default defineConfig({
               label: 'Dashboards',
               collapsed: true,
               autogenerate: {
-                directory: 'modules/Dashboards',
+                directory: 'ingenuity/modules/Dashboards',
               },
             },
             {
               label: 'Charts',
               collapsed: true,
               autogenerate: {
-                directory: 'modules/Charts',
+                directory: 'ingenuity/modules/Charts',
               },
             },
             {
               label: 'Calculations',
               collapsed: true,
               autogenerate: {
-                directory: 'modules/Calculations',
+                directory: 'ingenuity/modules/Calculations',
               },
             },
             {
               label: 'Reports',
               collapsed: true,
               autogenerate: {
-                directory: 'modules/Reports',
+                directory: 'ingenuity/modules/Reports',
               },
             },
             {
               label: 'Scripts',
               collapsed: true,
               autogenerate: {
-                directory: 'modules/Scripts',
+                directory: 'ingenuity/modules/Scripts',
               },
             },
             {
               label: 'Asset Model',
               collapsed: true,
               autogenerate: {
-                directory: 'modules/Asset Model',
+                directory: 'ingenuity/modules/Asset Model',
               },
             },
             {
               label: 'Data Sources',
               collapsed: true,
               autogenerate: {
-                directory: 'modules/Data Sources',
+                directory: 'ingenuity/modules/Data Sources',
+              },
+            },
+            {
+              label: 'Logbooks',
+              collapsed: true,
+              autogenerate: {
+                directory: 'ingenuity/modules/Logbooks',
               },
             },
           ],
@@ -129,14 +136,14 @@ export default defineConfig({
               collapsed: true,
               label: 'API Reference',
               autogenerate: {
-                directory: 'developing-with-eigen/api-reference',
+                directory: 'ingenuity/developing-with-eigen/api-reference',
               },
             },
             {
               collapsed: true,
               label: 'Excel Addin',
               autogenerate: {
-                directory: 'developing-with-eigen/excel-addin',
+                directory: 'ingenuity/developing-with-eigen/excel-addin',
               },
             },
             {
@@ -145,41 +152,41 @@ export default defineConfig({
               items: [
                 {
                   label: 'Intro to the Python SDK',
-                  link: '/developing-with-eigen/python-library/overview',
+                  link: 'ingenuity/developing-with-eigen/python-library/overview',
                 },
                 {
                   label: 'Authentication',
-                  link: '/developing-with-eigen/python-library/authentication',
+                  link: '/ingenuity/developing-with-eigen/python-library/authentication',
                 },
                 {
                   label: 'Historian Multi',
                   autogenerate: {
-                    directory: 'developing-with-eigen/python-library/Historian Multi',
+                    directory: 'ingenuity/developing-with-eigen/python-library/Historian Multi',
                   },
                 },
                 {
                   label: 'Asset Model',
                   autogenerate: {
-                    directory: 'developing-with-eigen/python-library/Asset Model',
+                    directory: 'ingenuity/developing-with-eigen/python-library/Asset Model',
                   },
                 },
 
                 {
                   label: 'Common Menu',
                   autogenerate: {
-                    directory: 'developing-with-eigen/python-library/Common Menu',
+                    directory: 'ingenuity/developing-with-eigen/python-library/Common Menu',
                   },
                 },
                 {
                   label: 'Eventlog',
                   autogenerate: {
-                    directory: 'developing-with-eigen/python-library/Eventlog',
+                    directory: 'ingenuity/developing-with-eigen/python-library/Eventlog',
                   },
                 },
                 {
                   label: 'SQL',
                   autogenerate: {
-                    directory: 'developing-with-eigen/python-library/SQL',
+                    directory: 'ingenuity/developing-with-eigen/python-library/SQL',
                   },
                 },
                 {
@@ -191,7 +198,7 @@ export default defineConfig({
                   items: [
                     {
                       label: 'The Legacy Historian Module',
-                      link: '/developing-with-eigen/python-library/historian/overview',
+                      link: '/ingenuity/developing-with-eigen/python-library/historian/overview',
                     },
                   ],
                 },
@@ -204,10 +211,11 @@ export default defineConfig({
                   items: [
                     {
                       label: 'The Legacy Elastic Module',
-                      link: '/developing-with-eigen/python-library/elastic/overview',
+                      link: '/ingenuity/developing-with-eigen/python-library/elastic/overview',
                     },
                   ],
                 },
+                
               ],
             },
             {
@@ -218,11 +226,29 @@ export default defineConfig({
                 variant: 'caution',
               },
               autogenerate: {
-                directory: 'developing-with-eigen/office-connector',
+                directory: 'ingenuity/developing-with-eigen/office-connector',
               },
             },
           ],
         },
+  // --- BSP ---
+        {
+          label: 'Getting Started with BSP',
+          autogenerate: {
+                directory: 'bsp/getting-started/',
+          collapsed: true,
+          }
+        },
+        {
+          label: 'User Guide',
+          autogenerate: {
+                directory: 'bsp/user-guide',
+          collapsed: true,
+          }
+        },
+
+    // --- END BSP --- (update in routeData.ts if changing)
+
       ],
       plugins: [starlightThemeNova()],
     }),
