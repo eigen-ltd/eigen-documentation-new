@@ -1,6 +1,6 @@
 ---
 title: 3.16 Navigation
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the navigation widget in Ingenuity 7.
 sidebar:
     order: 17
 ---

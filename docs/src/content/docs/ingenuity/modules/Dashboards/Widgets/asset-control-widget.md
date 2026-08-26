@@ -1,6 +1,6 @@
 ---
 title: 3.25 Asset Control Widget
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the asset control widget in Ingenuity 7.
 sidebar:
     order: 28
 ---

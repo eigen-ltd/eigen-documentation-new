@@ -1,6 +1,6 @@
 ---
 title: 'CDF Connector'
-description: 'A guide to the Eigen Ingenuity CDF data connector, its features, and configuration.'
+description: A guide to the Eigen Ingenuity CDF data connector, its features, and configuration.
 sidebar:
   order: 10
 

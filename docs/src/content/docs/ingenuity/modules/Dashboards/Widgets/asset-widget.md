@@ -1,6 +1,6 @@
 ---
 title: 3.24 Asset Widget
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the asset widget in Ingenuity 7.
 sidebar:
     order: 27
 ---

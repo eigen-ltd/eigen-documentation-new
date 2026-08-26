@@ -1,6 +1,6 @@
 ---
 title: 'Lists'
-description: 'test1'
+description: Explains how data is displayed in list format.
 sidebar:
   order: 4
 ---

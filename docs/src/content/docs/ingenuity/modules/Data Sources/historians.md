@@ -1,6 +1,6 @@
 ---
 title: Historians
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: Ingenuity data sources provide the information displayed in charts, dashboards, tables, and other visual elements.
 sidebar:
     order: 8
 

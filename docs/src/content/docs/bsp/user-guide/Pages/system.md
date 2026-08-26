@@ -1,6 +1,6 @@
 ---
 title: 'System'
-description: 'test1'
+description: Displays barrier status organised by engineering system rather than by area.
 sidebar:
   order: 6
   badge:

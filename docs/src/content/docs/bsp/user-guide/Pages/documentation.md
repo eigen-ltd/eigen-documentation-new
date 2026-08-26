@@ -1,6 +1,6 @@
 ---
 title: 'Documentation'
-description: 'test1'
+description: A centralised library of documents associated with the barrier model, including performance standards, procedures, training materials, and guidance documents.
 sidebar:
   order: 9
 ---

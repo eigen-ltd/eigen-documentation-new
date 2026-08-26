@@ -1,6 +1,6 @@
 ---
 title: Process Graphics
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to process graphics in Ingenuity 7.
 sidebar:
     order: 4
 ---

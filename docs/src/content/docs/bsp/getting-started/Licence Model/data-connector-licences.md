@@ -1,6 +1,6 @@
 ---
 title: 'Data Connector Licences'
-description: 'test1'
+description: Details the Eigen BSP data connector licences.
 sidebar:
   order: 3
 ---

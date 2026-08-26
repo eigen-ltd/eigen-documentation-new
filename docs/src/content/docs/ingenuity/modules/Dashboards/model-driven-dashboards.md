@@ -1,6 +1,6 @@
 ---
 title: Assets
-description: x
+description: A guide to model driven dashboards in Ingenuity 7.
 sidebar:
     order: 6
 ---

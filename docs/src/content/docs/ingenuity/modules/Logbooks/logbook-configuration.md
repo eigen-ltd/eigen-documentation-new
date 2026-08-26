@@ -1,6 +1,6 @@
 ---
 title: Logbook Configuration
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to configuring a logbook in Ingenuity 7.
 sidebar:
     order: 3
 ---

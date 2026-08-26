@@ -1,6 +1,6 @@
 ---
 title: 3.27 Control Group
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the control group widget in Ingenuity 7.
 sidebar:
     order: 29
 ---

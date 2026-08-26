@@ -1,6 +1,6 @@
 ---
 title: 'Major Accident Hazards'
-description: 'test1'
+description: Explains what major accident hazards are, gives examples relevant to industrial facilities, and describes how they are represented and linked to barriers in the BSP model.
 sidebar:
   order: 2
 ---

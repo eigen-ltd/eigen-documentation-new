@@ -1,6 +1,6 @@
 ---
 title: 'Visual Asset Diagram'
-description: 'test1'
+description: Describes how to read the interactive asset diagram, colour-coded by status, with hover and click functionality to navigate to areas.
 sidebar:
   order: 6
 ---

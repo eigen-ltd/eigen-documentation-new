@@ -1,6 +1,6 @@
 ---
 title: 2.1 Calculations Summary
-description: A short overview of the different calculations within the Ingenuity calculations module
+description: An overview of the all the functions in the Ingenuity calculations module.
 sidebar:
     order: 2
 

@@ -29,9 +29,9 @@ export default defineConfig({
       },
       title: 'Eigen Documentation',
       lastUpdated: true,
-      editLink: {
-        baseUrl: 'https://github.com/eigen-ltd/eigen-documentation/edit/main/docs/',
-      },
+      //editLink: {
+      //  baseUrl: 'https://github.com/eigen-ltd/eigen-documentation/edit/main/docs/',
+      //},
       locales,
       routeMiddleware: './src/routeData.ts',
       logo: {

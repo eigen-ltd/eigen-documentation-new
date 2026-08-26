@@ -1,6 +1,6 @@
 ---
 title: 3.7 Chart
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the chart widget in Ingenuity 7.
 sidebar:
     order: 8
 ---

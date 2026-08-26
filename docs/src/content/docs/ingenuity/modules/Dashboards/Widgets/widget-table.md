@@ -1,6 +1,6 @@
 ---
 title: 3.22 Widget Table
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the widget table in Ingenuity 7.
 sidebar:
     order: 24
 ---

@@ -1,6 +1,6 @@
 ---
 title: 3.26 Control Widget
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the control widget in Ingenuity 7.
 sidebar:
     order: 29
 ---

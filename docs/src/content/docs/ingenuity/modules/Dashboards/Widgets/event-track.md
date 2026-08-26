@@ -1,6 +1,6 @@
 ---
 title: 3.10 Event Track
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the event track widget in Ingenuity 7.
 sidebar:
     order: 11
 ---

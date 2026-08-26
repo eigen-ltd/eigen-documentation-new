@@ -1,6 +1,6 @@
 ---
 title: Introduction to Ingenuity 7
-description: 'Eigen Ingenuity 7 User Manual'
+description: A powerful data integration, visualisation and analytics platform to drive more performance from your business.
 sidebar:
   order: 1
 ---

@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: 'Eigen Ingenuity 7 User Manual'
+description: An overview of workspaces in Ingenuity 7
 sidebar:
   order: 1
 ---

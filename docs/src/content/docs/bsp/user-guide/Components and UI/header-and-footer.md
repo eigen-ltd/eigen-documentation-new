@@ -1,6 +1,6 @@
 ---
 title: 'Header & Footer'
-description: 'test1'
+description: Explains what you can find in the header & footer.
 sidebar:
   order: 2
 ---

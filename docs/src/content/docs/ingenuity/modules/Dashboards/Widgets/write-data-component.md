@@ -1,6 +1,6 @@
 ---
 title: 3.23 Write Data Component
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the write data widget in Ingenuity 7.
 sidebar:
     order: 26
 ---

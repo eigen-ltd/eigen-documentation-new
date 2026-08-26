@@ -1,6 +1,6 @@
 ---
 title: 3.4 Image
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the image widget in Ingenuity 7.
 sidebar:
     order: 5
 ---

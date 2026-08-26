@@ -1,6 +1,6 @@
 ---
 title: 'The Common Menu'
-description: 'test1'
+description: This unique menu shows additional information about the reason for the impairment.
 sidebar:
   order: 5
 ---

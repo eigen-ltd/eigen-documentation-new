@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: Frequently asked questions related to dashboards in Ingenuity.
 sidebar:
     order: 8
 ---

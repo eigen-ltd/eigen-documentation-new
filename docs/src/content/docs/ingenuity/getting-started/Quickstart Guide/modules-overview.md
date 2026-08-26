@@ -1,6 +1,6 @@
 ---
 title: Modules Overview
-description: 'Eigen Ingenuity 7 User Manual'
+description: An overview of the modules available in Ingenuity 7
 sidebar:
   order: 2
 ---

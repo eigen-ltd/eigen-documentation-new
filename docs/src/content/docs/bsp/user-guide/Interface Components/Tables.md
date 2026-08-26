@@ -1,6 +1,6 @@
 ---
 title: 'Tables'
-description: 'test1'
+description: Explains how to read and interact with both standard and hierarchical tables, including sorting, filtering, nested views, and common menu access.
 sidebar:
   order: 2
 ---

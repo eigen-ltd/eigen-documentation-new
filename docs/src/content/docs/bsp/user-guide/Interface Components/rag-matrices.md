@@ -1,6 +1,6 @@
 ---
 title: 'Risk/RAG Matricies'
-description: 'test1'
+description: Describes the risk matrix showing consequences vs likelihood, with colour-coded zones.
 sidebar:
   order: 5
 ---

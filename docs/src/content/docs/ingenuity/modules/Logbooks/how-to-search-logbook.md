@@ -1,6 +1,6 @@
 ---
 title: How to search Logbook
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: An overview of how to search logbooks in Ingenuity 7.
 sidebar:
     order: 2
 ---

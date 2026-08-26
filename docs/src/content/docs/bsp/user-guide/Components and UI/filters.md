@@ -1,6 +1,6 @@
 ---
 title: 'Filters'
-description: 'test1'
+description: Explains the available filters and how they interact to slice barrier data.
 sidebar:
   order: 5
 ---

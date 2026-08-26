@@ -1,6 +1,6 @@
 ---
 title: What is Node-Red®?
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using Node-RED® in Ingenuity 7.
 sidebar:
     order: 1
 ---

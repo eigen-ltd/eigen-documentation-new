@@ -1,6 +1,6 @@
 ---
 title: 'Sunburst'
-description: 'test1'
+description: Explains the hierarchical sunburst visualisation showing barrier functions and elements radiating outward from the protected area.
 sidebar:
   order: 9
 ---

@@ -1,6 +1,6 @@
 ---
 title: Check Box
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to configuring and using the check box field for logbooks in Ingenuity 7.
 sidebar:
     order: 9
 ---

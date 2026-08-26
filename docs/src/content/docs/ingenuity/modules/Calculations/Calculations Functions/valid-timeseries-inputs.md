@@ -1,6 +1,6 @@
 ---
 title: 2.2 Valid Timeseries Inputs
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: An overview of the valid timeseries inputs functions in the Ingenuity calculations module.
 sidebar:
     order: 3
 

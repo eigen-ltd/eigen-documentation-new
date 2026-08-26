@@ -1,6 +1,6 @@
 ---
 title: Configuring Display Options
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to configuring display options for charts in Ingenuity.
 sidebar:
     order: 4
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Traffic Lights'
-description: 'test1'
+description: Explains the consistent use of colour (red, amber, green, blue/grey) throughout BSP to communicate barrier status at a glance.
 sidebar:
   order: 3
 ---

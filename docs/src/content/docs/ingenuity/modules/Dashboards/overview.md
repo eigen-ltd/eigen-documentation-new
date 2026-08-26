@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: A guide to using Dashboards in Ingenuity
+description: A guide to using dashboards in Ingenuity for visualisation and analysis.
 sidebar:
     order: 1
 ---

@@ -1,6 +1,6 @@
 ---
 title: Text
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to configuring and using the text field for logbooks in Ingenuity 7.
 sidebar:
     order: 7
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Glossary'
-description: 'test1'
+description: Definitions of key terms used throughout BSP, including BSP, MAH, barrier functions, performance standards, signals, impairments, and scores.
 sidebar:
   order: 5
 ---

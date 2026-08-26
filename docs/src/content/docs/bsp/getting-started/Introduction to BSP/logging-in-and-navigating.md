@@ -1,6 +1,6 @@
 ---
 title: 'Logging in and Navigating'
-description: 'test1'
+description: Instructions for accessing the web-based BSP application.
 sidebar:
   order: 4
 ---

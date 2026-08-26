@@ -1,6 +1,6 @@
 ---
 title: 2.3 Valid Time Units
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: An overview of the valid time units functions in the Ingenuity calculations module.
 sidebar:
     order: 4
 
