@@ -1,6 +1,6 @@
 ---
 title: Adding a New Field
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to adding a new logbook field in Ingenuity 7.
 sidebar:
     order: 5
 ---

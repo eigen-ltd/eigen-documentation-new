@@ -1,6 +1,6 @@
 ---
 title: System Requirements
-description: 'Eigen Ingenuity 7 User Manual'
+description: TBA
 sidebar:
   order: 2
   badge:

@@ -1,6 +1,6 @@
 ---
 title: 'Hierarchy Diagram'
-description: 'test1'
+description: Describes an alternative navigation method displaying the barrier hierarchy in a flowchart-like format with expandable nodes, colour-coded by status.
 sidebar:
   order: 10
 ---

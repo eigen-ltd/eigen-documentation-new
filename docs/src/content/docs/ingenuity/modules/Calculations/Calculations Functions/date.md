@@ -1,6 +1,6 @@
 ---
 title: 2.15 Date
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: An overview of the date functions in the Ingenuity calculations module.
 sidebar:
     order: 18
 

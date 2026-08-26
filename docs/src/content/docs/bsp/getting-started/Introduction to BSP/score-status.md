@@ -1,6 +1,6 @@
 ---
 title: 'Score & Status'
-description: 'test1'
+description: Defines what status means in BSP, how it is calculated based on criticality and impairment type, and what different status colours indicate across the system.
 sidebar:
   order: 3
 ---

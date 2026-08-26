@@ -1,6 +1,6 @@
 ---
 title: Select from Variable
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to configuring and using the select from variable field for logbooks in Ingenuity 7.
 sidebar:
     order: 14
 ---

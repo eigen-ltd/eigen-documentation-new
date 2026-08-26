@@ -1,6 +1,6 @@
 ---
 title: 'About Barrier Status Panel'
-description: 'test1'
+description: An overview of what the Barrier Status Panel is, who it is designed for, and how it addresses the visibility gap in safety barrier management.
 sidebar:
   order: 1
 prev: false

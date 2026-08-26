@@ -1,6 +1,6 @@
 ---
 title: Title Bar
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to configuring the title bar option for charts in Ingenuity.
 sidebar:
     order: 3
 ---

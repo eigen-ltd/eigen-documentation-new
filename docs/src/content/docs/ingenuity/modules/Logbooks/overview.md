@@ -1,6 +1,6 @@
 ---
 title: Overview of the Logbook
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: An overview of the logbook module in Ingenuity 7.
 sidebar:
     order: 1
 ---

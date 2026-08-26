@@ -1,6 +1,6 @@
 ---
 title: 2.5 Raw vs Interpolated Points
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: An overview of the raw vs interpolated points functions in the Ingenuity calculations module.
 sidebar:
     order: 6
 

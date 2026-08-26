@@ -1,6 +1,6 @@
 ---
 title: 2.13 Series Conditioning
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: An overview of the series conditioning functions in the Ingenuity calculations module.
 sidebar:
     order: 16
 

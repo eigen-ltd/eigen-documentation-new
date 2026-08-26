@@ -1,6 +1,6 @@
 ---
 title: 'Preventing & Mitigating'
-description: 'test1'
+description: Explains how BSP represents both preventative controls and mitigative controls using the bow-tie methodology.
 sidebar:
   order: 2
 ---

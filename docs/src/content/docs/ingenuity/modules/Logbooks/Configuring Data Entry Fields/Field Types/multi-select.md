@@ -1,6 +1,6 @@
 ---
 title: Multi select
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to configuring and using the multi select field for logbooks in Ingenuity 7.
 sidebar:
     order: 11
 ---

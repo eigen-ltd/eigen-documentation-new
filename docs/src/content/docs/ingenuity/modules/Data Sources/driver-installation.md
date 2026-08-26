@@ -1,6 +1,6 @@
 ---
 title: Driver Installation
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: A quick guide to Installing an Eigen Ingenuity Driver.
 sidebar:
     order: 6
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Levels of Support'
-description: 'test1'
+description: Details the Eigen BSP levels of support.
 sidebar:
   order: 4
 ---

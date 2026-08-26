@@ -1,6 +1,6 @@
 ---
 title: 'BSP Licencing Model'
-description: 'test1'
+description: Details the Eigen BSP licensing structure.
 sidebar:
   order: 2
 ---

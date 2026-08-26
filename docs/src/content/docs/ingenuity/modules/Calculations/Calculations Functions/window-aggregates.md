@@ -1,6 +1,6 @@
 ---
 title: 2.10 Windowed Aggregates
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: An overview of the windowed aggregates functions in the Ingenuity calculations module.
 sidebar:
     order: 13
 

@@ -1,6 +1,6 @@
 ---
 title: UK Postcode Finder
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: A worked example using datasources.
 sidebar:
     order: 8
 

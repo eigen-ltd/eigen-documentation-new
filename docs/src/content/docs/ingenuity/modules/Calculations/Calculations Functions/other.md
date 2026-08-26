@@ -1,6 +1,6 @@
 ---
 title: 2.16 Other
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: An overview of the point in time functions in the Ingenuity calculations module.
 sidebar:
     order: 19
 

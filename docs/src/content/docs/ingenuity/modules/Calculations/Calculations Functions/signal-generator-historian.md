@@ -1,6 +1,6 @@
 ---
 title: 2.18 Signal Generator Historian
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: An overview of the signal genertator historian functions in the Ingenuity calculations module.
 sidebar:
     order: 21
 

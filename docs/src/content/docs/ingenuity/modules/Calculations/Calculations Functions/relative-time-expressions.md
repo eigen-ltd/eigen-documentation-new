@@ -1,6 +1,6 @@
 ---
 title: 2.4 Relative Time Expressions
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: An overview of the relative time expressions functions in the Ingenuity calculations module.
 sidebar:
     order: 5
 

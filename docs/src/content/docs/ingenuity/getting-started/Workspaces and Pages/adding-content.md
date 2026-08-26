@@ -1,6 +1,6 @@
 ---
 title: Adding Content
-description: 'Eigen Ingenuity 7 User Manual'
+description: How to add pages and content to your workspace in Ingenuity 7
 sidebar:
   order: 2
 ---

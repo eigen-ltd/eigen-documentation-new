@@ -1,6 +1,6 @@
 ---
 title: 2.14 Rounding Functions
-description: An overview of the common errors that you may encounter when using the Ingenuity calculations module.
+description: An overview of the rounding functions in the Ingenuity calculations module.
 sidebar:
     order: 17
 

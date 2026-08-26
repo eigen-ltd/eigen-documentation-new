@@ -1,6 +1,6 @@
 ---
 title: 'Scoring & Colour Codes'
-description: 'test1'
+description: Explains how barrier status is calculated by combining impairment type and equipment criticality into a score.
 sidebar:
   order: 4
 ---

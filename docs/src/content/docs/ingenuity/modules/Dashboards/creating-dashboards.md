@@ -1,6 +1,6 @@
 ---
 title: Creating a Dashboard
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using dashboards in Ingenuity for visualisation and analysis.
 sidebar:
     order: 2
 ---

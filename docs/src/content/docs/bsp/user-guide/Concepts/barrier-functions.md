@@ -1,6 +1,6 @@
 ---
 title: 'Barrier Functions'
-description: 'test1'
+description: Defines barrier functions, explains how they are implemented through physical and procedural barrier elements, and describes their role in protecting against hazards.
 sidebar:
   order: 3
 ---

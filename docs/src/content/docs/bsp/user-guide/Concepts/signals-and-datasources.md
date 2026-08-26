@@ -1,6 +1,6 @@
 ---
 title: 'Signals & Data Sources'
-description: 'test1'
+description: Defines signals as standardised messages produced by data connectors.
 sidebar:
   order: 5
 ---

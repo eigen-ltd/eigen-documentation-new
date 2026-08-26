@@ -1,6 +1,6 @@
 ---
 title: 3.13 Level
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the level widget in Ingenuity 7.
 sidebar:
     order: 14
 ---

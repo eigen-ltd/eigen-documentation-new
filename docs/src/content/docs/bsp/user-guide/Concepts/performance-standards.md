@@ -1,6 +1,6 @@
 ---
 title: 'Performance Standards'
-description: 'test1'
+description: Describes performance standards as industry-recognised criteria defining minimum acceptable barrier performance.
 sidebar:
   order: 6
 ---

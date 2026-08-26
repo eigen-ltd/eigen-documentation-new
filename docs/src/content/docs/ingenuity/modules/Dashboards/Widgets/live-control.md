@@ -1,6 +1,6 @@
 ---
 title: 3.18 Live Control Widget
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the live control widget in Ingenuity 7.
 sidebar:
     order: 19
 ---

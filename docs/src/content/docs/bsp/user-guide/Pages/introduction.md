@@ -1,6 +1,6 @@
 ---
 title: 'Introduction'
-description: 'test1'
+description: An introduction to the different areas/pages in Eigen BSP
 sidebar:
   order: 2
 ---

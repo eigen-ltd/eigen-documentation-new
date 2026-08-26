@@ -1,6 +1,6 @@
 ---
 title: Configuring Data Entry Fields
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to configuring data entry fields for logbooks in Ingenuity 7.
 sidebar:
     order: 4
 ---

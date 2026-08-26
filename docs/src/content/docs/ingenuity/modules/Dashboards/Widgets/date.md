@@ -1,6 +1,6 @@
 ---
 title: 3.6 Date
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using the date widget in Ingenuity 7.
 sidebar:
     order: 7
 ---

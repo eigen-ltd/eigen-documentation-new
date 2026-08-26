@@ -1,6 +1,6 @@
 ---
 title: Edit & Display
-description: 'Eigen Ingenuity 7 User Manual'
+description: How to edit and display content in Ingenuity 7
 sidebar:
   order: 3
 ---

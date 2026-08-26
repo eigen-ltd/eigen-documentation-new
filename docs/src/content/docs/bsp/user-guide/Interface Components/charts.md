@@ -1,6 +1,6 @@
 ---
 title: 'Standard Charts'
-description: 'test1'
+description: Describes how to view and interact with trend charts, including axes, navigation, hovering for detail, and enlargement for closer analysis.
 sidebar:
   order: 7
 ---

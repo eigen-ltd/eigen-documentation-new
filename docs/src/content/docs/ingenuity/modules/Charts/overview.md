@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: A guide to using calculations in Ingenuity for data transformation and analysis.
+description: A guide to using charts in Ingenuity for trending and analysis.
 sidebar:
     order: 1
 ---
