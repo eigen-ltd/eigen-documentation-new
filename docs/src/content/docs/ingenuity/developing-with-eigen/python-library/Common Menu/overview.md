@@ -24,7 +24,7 @@ Use `get_common_menu()` to create a client:
 ```python
 from eigeningenuity import get_common_menu, EigenServer
 
-ei = EigenServer("https://demo.eigen.co/")
+ei = EigenServer("https://ingenuity-standalone-prod.eigen.co/")
 menu = get_common_menu(ei)
 ```
 

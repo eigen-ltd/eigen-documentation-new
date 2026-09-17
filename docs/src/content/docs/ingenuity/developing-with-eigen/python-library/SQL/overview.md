@@ -26,7 +26,7 @@ Use `get_sql()` to create a client:
 ```python
 from eigeningenuity import get_sql, EigenServer
 
-ei = EigenServer("https://demo.eigen.co/")
+ei = EigenServer("https://ingenuity-standalone-prod.eigen.co/")
 sql = get_sql(ei)
 ```
 

@@ -38,7 +38,7 @@ Use `get_assetmodel()` to create a client:
 ```python
 from eigeningenuity import get_assetmodel, EigenServer
 
-ei = EigenServer("https://demo.eigen.co/")
+ei = EigenServer("https://ingenuity-standalone-prod.eigen.co/")
 model = get_assetmodel(ei)
 ```
 

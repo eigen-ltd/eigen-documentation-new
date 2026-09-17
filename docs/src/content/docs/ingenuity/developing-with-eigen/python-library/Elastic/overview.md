@@ -20,7 +20,7 @@ Use `get_elastic()` to create a client:
 ```python
 from eigeningenuity import get_elastic, EigenServer
 
-ei = EigenServer("https://demo.eigen.co/")
+ei = EigenServer("https://ingenuity-standalone-prod.eigen.co/")
 elastic = get_elastic(ei)
 ```
 

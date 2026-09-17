@@ -23,10 +23,10 @@ The Settings screen includes the following options.
 
 - Label in UI: `Eigen Ingenuity server`
 - Purpose: Base server address used for API requests.
-- Example: `demo.eigen.co`
+- Example: `ingenuity-standalone-prod.eigen.co`
 - Required: Yes
 - Validation: Must be a valid domain/URL.
-- Default value: `demo.eigen.co`
+- Default value: `ingenuity-standalone-prod.eigen.co`
 
 ### Historian source
 
@@ -97,7 +97,7 @@ In practice, demo mode is intended to let a user start using the add-in immediat
 
 While in guest mode, setting reads fall back to the default values from the settings store, including:
 
-- Server: `demo.eigen.co`
+- Server: `ingenuity-standalone-prod.eigen.co`
 - Historian source: `Demo-influxdb`
 - Azure AD: `false`
 
@@ -120,18 +120,18 @@ This mode is intended for connecting the add-in to your own Ingenuity deployment
 
 <div align="center">
 
-| Area                           | Try the Demo              | Connect to Your Ingenuity                     |
-| ------------------------------ | ------------------------- | --------------------------------------------- |
-| Intended use                   | Quick evaluation          | Real environment setup                        |
-| Guest mode                     | Yes                       | No                                            |
-| Requires settings screen first | No                        | Usually yes                                   |
-| Default server                 | `demo.eigen.co`           | User-provided                                 |
-| Default historian source       | `Demo-influxdb`           | User-provided                                 |
-| Azure AD available             | No                        | Yes                                           |
-| API key supported              | Not required in demo flow | Yes                                           |
-| Proxy configuration            | Not user-driven           | User-configurable                             |
-| Request style                  | Simple direct request     | Proxy or direct request depending on settings |
-| Best for                       | Trial, demos, exploration | Connections to your own Ingenuity             |
+| Area                           | Try the Demo                                   | Connect to Your Ingenuity                     |
+| ------------------------------ | ---------------------------------------------- | --------------------------------------------- |
+| Intended use                   | Quick evaluation                               | Real environment setup                        |
+| Guest mode                     | Yes                                            | No                                            |
+| Requires settings screen first | No                                             | Usually yes                                   |
+| Default server                 | `ingenuity-standalone-prod.eigen.co`           | User-provided                                 |
+| Default historian source       | `Demo-influxdb`                                | User-provided                                 |
+| Azure AD available             | No                                             | Yes                                           |
+| API key supported              | Not required in demo flow                      | Yes                                           |
+| Proxy configuration            | Not user-driven                                | User-configurable                             |
+| Request style                  | Simple direct request                          | Proxy or direct request depending on settings |
+| Best for                       | Trial, demos, exploration                      | Connections to your own Ingenuity             |
 
 </div>
 

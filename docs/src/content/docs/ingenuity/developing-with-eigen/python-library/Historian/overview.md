@@ -20,7 +20,7 @@ Use `get_historian()` to create a client:
 ```python
 from eigeningenuity import get_historian, EigenServer
 
-ei = EigenServer("https://demo.eigen.co/")
+ei = EigenServer("https://ingenuity-standalone-prod.eigen.co/")
 h = get_historian("Demo-influxdb", ei)
 ```
 
