@@ -21,7 +21,7 @@ Use `get_historian_multi()` to create a client:
 ```python
 from eigeningenuity import get_historian_multi, EigenServer
 
-ei = EigenServer("https://demo.eigen.co/")
+ei = EigenServer("https://ingenuity-standalone-prod.eigen.co/")
 hm = get_historian_multi(default_historian="Demo-influxdb", eigenserver=ei)
 ```
 

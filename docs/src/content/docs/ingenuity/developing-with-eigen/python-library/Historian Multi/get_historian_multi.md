@@ -26,7 +26,7 @@ menu = get_historian_multi()
 ```python
 from eigeningenuity import get_historian_multi, EigenServer
 
-ei = EigenServer("https://demo.eigen.co/")
+ei = EigenServer("https://ingenuity-standalone-prod.eigen.co/")
 menu = get_historian_multi(ei)
 ```
 
@@ -35,6 +35,6 @@ menu = get_historian_multi(ei)
 ```python
 from eigeningenuity import get_historian_multi, EigenServer
 
-ei = EigenServer("https://demo.eigen.co/")
+ei = EigenServer("https://ingenuity-standalone-prod.eigen.co/")
 menu = get_historian_multi(ei, default_historian="Demo-influxdb")
 ```

@@ -156,7 +156,7 @@ All queries require a historian name and a tag name
 
 ```bash
 curl -X POST \
-https://demo.eigen.co/historian/multi \
+https://ingenuity-standalone-prod.eigen.co/historian/multi \
   -H 'Content-Type: application/json' \
   -H 'X-Api-Key: READONLYKEY' \
   --insecure \
@@ -228,7 +228,7 @@ Return value at specific point in time (may be interpolated value between points
 
 ```bash
 curl -X POST \
-https://demo.eigen.co/historian/multi \
+https://ingenuity-standalone-prod.eigen.co/historian/multi \
   -H 'Content-Type: application/json' \
   -H 'X-Api-Key: READONLYKEY' \
   --insecure \
@@ -335,7 +335,7 @@ Return evenly-spaced points of exact number as specified in count. First point i
 
 ```bash
 curl -X POST \
-https://demo.eigen.co/historian/multi \
+https://ingenuity-standalone-prod.eigen.co/historian/multi \
 -H 'Content-Type: application/json' \
 -H 'X-Api-Key: READONLYKEY' \
 --insecure \
@@ -436,7 +436,7 @@ determine whether to include raw points that fall exactly upon a boundary timest
 
 ```bash
 curl -X POST \
-https://demo.eigen.co/historian/multi \
+https://ingenuity-standalone-prod.eigen.co/historian/multi \
 -H 'Content-Type: application/json' \
 -H 'X-Api-Key: READONLYKEY' \
 --insecure \
@@ -597,7 +597,7 @@ Returns the closest raw point(s) to aprovided timestamp
 
 ```bash
 curl -X POST \
-https://demo.eigen.co/historian/multi \
+https://ingenuity-standalone-prod.eigen.co/historian/multi \
 -H 'Content-Type: application/json' \
 -H 'X-Api-Key: READONLYKEY' \
 --insecure \
@@ -797,7 +797,7 @@ The API response will always return an entry for each aggregate, but unrequested
 
 ```bash
 curl -X POST \
-https://demo.eigen.co/historian/multi \
+https://ingenuity-standalone-prod.eigen.co/historian/multi \
 -H 'Content-Type: application/json' \
 -H 'X-Api-Key: READONLYKEY' \
 --insecure \

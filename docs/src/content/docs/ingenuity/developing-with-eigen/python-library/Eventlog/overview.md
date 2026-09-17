@@ -21,7 +21,7 @@ Use `get_eventlog()` to create a client:
 ```python
 from eigeningenuity import get_eventlog, EigenServer
 
-ei = EigenServer("https://demo.eigen.co/")
+ei = EigenServer("https://ingenuity-standalone-prod.eigen.co/")
 log = get_eventlog(ei)
 ```
 
