@@ -2,7 +2,7 @@
 title: 'Standard Charts'
 description: Describes how to view and interact with trend charts, including axes, navigation, hovering for detail, and enlargement for closer analysis.
 sidebar:
-  order: 7
+  order: 8
 ---
 
 Depending on your Eigen BSP configuration, the features and UI of charts will vary. More recent BSP instances follow very similar chart features and UI as Ingenuity 7. If you are familiar with Ingenuity charting, much of what you know will transfer directly to the BSP.

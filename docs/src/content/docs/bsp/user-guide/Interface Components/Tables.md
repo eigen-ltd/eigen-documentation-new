@@ -2,7 +2,7 @@
 title: 'Tables'
 description: Explains how to read and interact with both standard and hierarchical tables, including sorting, filtering, nested views, and common menu access.
 sidebar:
-  order: 2
+  order: 3
 ---
 
 Tables are one of the primary ways data is presented in the BSP. They provide a structured, scannable format for viewing barrier status, impairments, and associated data across the asset. There are two types of tables used in the BSP: standard tables and hierarchical tables.

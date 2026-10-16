@@ -2,7 +2,7 @@
 title: 'Introduction'
 description: An introduction to the different areas/pages in Eigen BSP
 sidebar:
-  order: 2
+  order: 1
 ---
 
 The pages available in your BSP are pre-configured during deployment based on your organisation's specific requirements, hazard model, and data sources. Unlike the Ingenuity 7 base platform, which allows users to create their own dashboards, add widgets, and build custom views on the fly, the BSP is not configurable at the user level to the same extent. The pages you see have been designed and set up by Eigen in collaboration with your organisation and reflect the barrier model and data sources specific to your facility.

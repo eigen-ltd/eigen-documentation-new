@@ -2,7 +2,7 @@
 title: 'Risk/RAG Matricies'
 description: Describes the risk matrix showing consequences vs likelihood, with colour-coded zones.
 sidebar:
-  order: 5
+  order: 6
 ---
 
 ##	What is a RAG/Risk Matrix?

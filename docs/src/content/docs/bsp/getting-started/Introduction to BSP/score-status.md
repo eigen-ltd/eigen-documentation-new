@@ -27,7 +27,7 @@ You can click the info button in the BSP system for a reminder.
 
 ## Tag score
 
-Each tag has its own score derived from its condition and criticality. The higher the score, the greater the risk.
+Each tag has its own score derived from its condition and criticality. The higher the score, the greater the impairment level.
 
 ## Aggregated Score
 
@@ -36,7 +36,7 @@ Aggregate score is the total score of all tags affecting a specific Area, Perfor
 ## How are scores calculated or assigned
 Status is calculated by assigning a score to each impairment based on two factors: the type of impairment and the criticality of the affected equipment. These scores are aggregated according to the ruleset configured for the installation. 
 
-Criticality is assigned by the operating company and reflects how essential a piece of equipment is to the barrier function: 
+Criticality is assigned by the operating company and reflects how essential a piece of equipment is to the barrier function, for example: 
 
 - A High Integrity Pressure Protection System (HIPS) on a single incoming gas supply line would typically be assigned a criticality of 6, as it is a non-redundant single point of failure. 
 - A sensor in a two-out-of-three (2oo3) voting arrangement might be assigned a criticality of 3, as the failure of one does not fully degrade the barrier. 

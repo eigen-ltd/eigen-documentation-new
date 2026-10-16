@@ -2,7 +2,7 @@
 title: 'Lists'
 description: Explains how data is displayed in list format.
 sidebar:
-  order: 4
+  order: 5
 ---
 
 ##	Lists
