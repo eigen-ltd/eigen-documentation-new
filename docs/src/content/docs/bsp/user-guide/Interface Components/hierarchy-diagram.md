@@ -2,7 +2,7 @@
 title: 'Hierarchy Diagram'
 description: Describes an alternative navigation method displaying the barrier hierarchy in a flowchart-like format with expandable nodes, colour-coded by status.
 sidebar:
-  order: 10
+  order: 11
 ---
 
 Some pages in the BSP may display a hierarchy visualization (a diagram similar to a flowchart or organisational chart) that presents the relationships between elements of the barrier model in a structured, expandable format. This provides an alternative way of navigating the barrier hierarchy to the sunburst or hierarchical table and may be better suited to users who prefer a more linear, top-down view of the model.

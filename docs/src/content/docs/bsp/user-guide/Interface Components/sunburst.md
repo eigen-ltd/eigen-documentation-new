@@ -2,7 +2,7 @@
 title: 'Sunburst'
 description: Explains the hierarchical sunburst visualisation showing barrier functions and elements radiating outward from the protected area.
 sidebar:
-  order: 9
+  order: 10
 ---
 
 ##	What is a sunburst?

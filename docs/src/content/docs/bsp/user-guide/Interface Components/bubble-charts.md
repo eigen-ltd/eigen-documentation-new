@@ -2,7 +2,7 @@
 title: 'Bubble Charts'
 description: A bubble chart (or bubble plot) is a data visualisation used to compare groups of related information.
 sidebar:
-  order: 8
+  order: 9
 ---
 
 ##	What is a Bubble Chart? 

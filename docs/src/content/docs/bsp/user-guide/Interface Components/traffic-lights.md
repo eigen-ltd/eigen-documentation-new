@@ -2,7 +2,7 @@
 title: 'Traffic Lights'
 description: Explains the consistent use of colour (red, amber, green, blue/grey) throughout BSP to communicate barrier status at a glance.
 sidebar:
-  order: 3
+  order: 4
 ---
 
 ##	What are traffic lights in Eigen BSP

@@ -17,7 +17,7 @@ The process of creating a barrier status panel typically consists of
 4.	Establishing performance requirements
 5.	Maintaining the performance of the barriers.
 
-![BSP](~/assets/bsp/getting-started/image1.png)
+![BSP](~/assets/bsp/getting-started/image1-1.png)
 
 ## Who is it for?
 
